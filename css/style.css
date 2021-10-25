@@ -2,9 +2,7 @@
     background: url("../img/pattern.png") repeat-x rgb(93, 200, 250);
     height: 100px;
     background-size: contain;   
-
 }
-
 #logo{
     background-color: yellow;
     background-image: url("../img/logo.svg") no-repeat;
@@ -24,4 +22,7 @@
 #data_pubblicazione{
     font-size: small;
     color: lightgrey;
+}
+.descrizione_foto{
+    font-size: xx-small;
 }
