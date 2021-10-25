@@ -48,6 +48,10 @@
     color: white;
 }
 
+.larghezza-cella{
+    width: 25%;
+}
+
 #corpo-tabella{
     text-align: left;
     background-color: rgb(128, 185, 221);
