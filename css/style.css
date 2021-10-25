@@ -1,10 +1,5 @@
-.contenitore{
-    width: 1200px;
-    margin: auto;
-}
-
 .intestazione{
-    background: url("../img/pattern.png") repeat-x rgb(93, 200, 250);
+    background: url("../img/pattern.png") repeat rgb(93, 200, 250);
     height: 100px;
     background-size: contain;   
 }
@@ -13,7 +8,7 @@
     background: url("../img/logo.svg") no-repeat;
     width: 50px;
     height: 50px;
-    background-color: yellow;
+   
 }
 
 #nome_del_scrittore{
@@ -23,6 +18,17 @@
 .testo{
     color: darkgray;
 }
+
+#prima-immagine{
+    width: 55%;
+    height: 500px;
+}
+
+#seconda-immagine{
+    width: 43%;
+    height: 500px;
+}
+
 
 #data_pubblicazione{
     font-size: small;
@@ -60,7 +66,6 @@
     margin: 0px;
     color: #FFFFFF;
     background-size: cover;
-    background-color: red;
     font-size: 25px;
     text-align: left;
     border-left: 20px;
