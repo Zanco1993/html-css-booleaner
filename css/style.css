@@ -26,3 +26,18 @@
 .descrizione_foto{
     font-size: xx-small;
 }
+
+.nota_evidenziata{
+    background-color: yellow;
+}
+
+#intestazione_tabella{
+    text-align: left;
+    background-color: lightskyblue;
+    color: white;
+}
+
+#corpo-tabella{
+    text-align: left;
+    background-color: rgb(128, 185, 221);
+}
