@@ -1,3 +1,8 @@
+.contenitore{
+    width: 1200px;
+    margin: auto;
+}
+
 .intestazione{
     background: url("../img/pattern.png") repeat-x rgb(93, 200, 250);
     height: 100px;
@@ -5,7 +10,7 @@
 }
 #logo{
     background-color: yellow;
-    background-image: url("../img/logo.svg") no-repeat;
+    background: url("../img/logo.svg") no-repeat;
     width: 50px;
     height: 50px;
     background-color: yellow;
@@ -40,4 +45,26 @@
 #corpo-tabella{
     text-align: left;
     background-color: rgb(128, 185, 221);
+}
+
+#monitor{
+    background: url('../img/monitor.jpg') no-repeat;
+
+}
+
+#grafico{
+    background: url("../img/graph.jpg") no-repeat;
+}
+
+.testo-nelle-immagini{
+    margin: 0px;
+    color: #FFFFFF;
+    background-size: cover;
+    background-color: red;
+    font-size: 25px;
+    text-align: left;
+    border-left: 20px;
+    width: 300px;
+    height: 200px;
+
 }
